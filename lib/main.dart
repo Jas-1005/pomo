@@ -23,9 +23,12 @@ class MyApp extends StatelessWidget {
         textColor: AppColors.darkThemeText,
         pomoCharacterImage: 'assets/images/pomo_character_for_dark_theme.png',
       ),
-      // routes: {
-      //   '/time_interface': (context) => TimerScreen(),
-      // },
+      routes: {
+        '/timer_interface': (context) => TimerScreen(
+          backgroundColor: AppColors.darkSplashScreenBackground,
+          textColor: AppColors.darkThemeText,
+        ),
+      },
     );
   }
 }
