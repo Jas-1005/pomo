@@ -15,7 +15,7 @@ class AppTextStyles {
   );
 
   // static const TextStyle _textSplashScreen = TextStyle(
-  //   fontFamily: 'Inter',
+  //   fontFamily: 'SF Compact',
   //   fontSize: 20.0,
   // );
 
