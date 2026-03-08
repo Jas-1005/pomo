@@ -28,8 +28,8 @@
     └── README.md                     # notes
 ```
 
-MEMBERS:
-Jasmine Magadan
-Eleah Joy Melchor
+## MEMBERS:
+* Jasmine Magadan
+* Eleah Joy Melchor
 
 
