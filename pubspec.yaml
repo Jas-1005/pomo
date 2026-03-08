@@ -61,6 +61,7 @@ flutter:
   assets:
      - assets/images/pomo_character_for_light_theme.png
      - assets/images/pomo_character_for_dark_theme.png
+     - assets/images/focus_fire_icon.png
 
 
 
