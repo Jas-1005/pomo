@@ -84,9 +84,9 @@ flutter:
      fonts:
        - asset: assets/fonts/Inter.ttf
 
-   - family: SF Compact
-     fonts:
-       - asset: assets/fonts/SF-Compact.ttf
+#   - family: SF Compact
+#     fonts:
+#       - asset: assets/fonts/SF-Compact.ttf
 
   #
   # For details regarding fonts from package dependencies,
